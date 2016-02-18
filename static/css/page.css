@@ -1,0 +1,37 @@
+body{
+  padding-top: 80px;
+}
+
+html, p, nav {
+	font-family: 'Raleway', 'Helvetica', 'Arial', sans-serif;
+}
+
+p {
+	color: #2d303b;
+}
+
+p.post{
+  text-align:center;
+}
+
+h1.post-title {
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 700;
+  color: #2d303b;
+  text-align:center; 
+}
+
+h1 {
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 700;
+  color: #2d303b;
+}
+a {
+  text-decoration: none;
+  color: #4169E1;
+}
+
+em.author{
+   color: #2d303b;
+	text-decoration: underline;
+}

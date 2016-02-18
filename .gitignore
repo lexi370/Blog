@@ -1,0 +1,11 @@
+*.py[cod]
+*.conf
+*.ini
+.idea
+*.db
+venv/
+*.sock
+include/
+lib/
+bin/
+local/
